@@ -1,3 +1,4 @@
+My name is Damian Matysko and here is my elevator solution. In this solution I used Java and the lift is demonstrated in the terminal. 
 Passengers approach the elevator and stand in line. The elevator carries each passenger one at a time. The following scenarios have been implemented:
 1. The elevator is on a different floor than the passengers - the elevator will begin to rise or fall to the desired floor.
 2. The elevator is already on the required floor - then it immediately works with the passenger.
